@@ -24,7 +24,7 @@
 1. Visit https://apps.nationalmap.gov/lidar-explorer/#/
 2. Select the area you would like to download
 3. On the right pane, under Downloadable Products Within AOI/Lidar within AOI, click the button to the right of Lidar Point Cloud (LPC) to get the download list
-4. Put the downloadlist.txt file into the root directory of this project
+4. Put the downloadlist.txt file into the root directory of this project and replace the default one
 5. Open the notebook in your program of choice and run all cells
 
 
